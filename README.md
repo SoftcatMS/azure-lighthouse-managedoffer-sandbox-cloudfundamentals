@@ -1,4 +1,4 @@
-# Azure Lighthouse Managed Offer (sandbox)
+# Azure Lighthouse Managed Offer (Sandbox - Cloud Essentials)
 Stores the Azure Lighthouse Managed Security Offer template that can be used to provide delegation to customer environments from objects with the Partner Sandbox account
 
 The following permissions are included in this lighthouse offer.
