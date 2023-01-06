@@ -1,4 +1,4 @@
-# Azure Lighthouse Managed Offer (Sandbox - Cloud Essentials)
+# Azure Lighthouse Managed Offer (Sandbox - Cloud Fundamentals)
 Stores the Azure Lighthouse Managed Security Offer template that can be used to provide delegation to customer environments from objects with the Partner Sandbox account
 
 The following permissions are included in this lighthouse offer.
@@ -18,4 +18,4 @@ The following permissions are included in this lighthouse offer.
 
 Use the below button to deploy this Azure Lighthouse offer to a tenant.
 
-[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSoftcatMS%2Fazure-lighthouse-managedoffer-sandbox-cloudessentials%2Fmain%2Fsandbox-cloudessentials-lighthouse-offer-nopim.json)
+[![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FSoftcatMS%2Fazure-lighthouse-managedoffer-sandbox-cloudfundamentals%2Fmain%2Fsandbox-cloudfundamentals-lighthouse-offer-nopim.json)
