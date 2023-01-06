@@ -7,14 +7,14 @@
    "metadata": {
     "description": "Specify a unique name for your offer"
    },
-   "defaultValue": "Softcat Sandbox - Cloud Essentials Offer"
+   "defaultValue": "Softcat Sandbox - Cloud Fundamentals Offer"
   },
   "mspOfferDescription": {
    "type": "string",
    "metadata": {
     "description": "Name of the Managed Service Provider offering"
    },
-   "defaultValue": "Provides permissions from groups in the Softcat Sandbox Partner account access to customer environments for the Cloud Essentials Service"
+   "defaultValue": "Provides permissions from groups in the Softcat Sandbox Partner account access to customer environments for the Cloud Fundamentals Service"
   }
  },
  "variables": {
