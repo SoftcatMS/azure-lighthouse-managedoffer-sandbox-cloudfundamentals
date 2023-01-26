@@ -23,34 +23,19 @@
   "managedByTenantId": "bb72df59-578e-4129-894d-9e70545ca670",
   "authorizations": [
    {
-    "principalId": "fdd343fd-048f-41b3-99c3-4133be208ef5",
+    "principalId": "e806e994-5041-48da-897e-347b5f04a9ef",
     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-    "principalIdDisplayName": "Managed Azure - Engineers"
+    "principalIdDisplayName": "ALH - Managed Azure Customer Reliability Engineers"
    },
    {
-    "principalId": "8e22c35d-e70f-4a36-bae2-dc6182d1bfd3",
-    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-    "principalIdDisplayName": "Managed Azure - Service Delivery Managers"
-   },
-   {
-    "principalId": "70c198ff-7308-4079-961f-c15fe0fadfa7",
-    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
-    "principalIdDisplayName": "Managed Azure - Services"
-   },
-   {
-    "principalId": "fdd343fd-048f-41b3-99c3-4133be208ef5",
+    "principalId": "e806e994-5041-48da-897e-347b5f04a9ef",
     "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46",
-    "principalIdDisplayName": "Managed Azure - Engineers"
+    "principalIdDisplayName": "ALH - Managed Azure Customer Reliability Engineers"
    },
    {
-    "principalId": "fdd343fd-048f-41b3-99c3-4133be208ef5",
-    "roleDefinitionId": "cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e",
-    "principalIdDisplayName": "Managed Azure - Engineers"
-   },
-   {
-    "principalId": "70c198ff-7308-4079-961f-c15fe0fadfa7",
-    "roleDefinitionId": "cfd33db0-3dd1-45e3-aa9d-cdbdf3b6f24e",
-    "principalIdDisplayName": "Managed Azure - Services"
+    "principalId": "6668ddf5-d95f-4d42-9f49-ae9f21ae7c8e",
+    "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7",
+    "principalIdDisplayName": "Managed Azure - Solutions Design"
    }
   ]
  },
